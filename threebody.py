@@ -5,13 +5,8 @@
 ╔═════════════════════════════════════════════════════════════════════════════╗
 ║                             Copyright statement                             ║
 ╠═════════════════════════════════════════════════════════════════════════════╣
-  Confidential Information
-  Copyright by imec
-  imec vzw
-  Kapeldreef 75
-  3001 Leuven
-  Belgium
-  www.imec.be
+  Public
+  Copyright by Ben De Jonge
 ╚═════════════════════════════════════════════════════════════════════════════╝
 
 
@@ -34,7 +29,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.cm as cm
 from collections import deque
 import imageio as imio
 import os
